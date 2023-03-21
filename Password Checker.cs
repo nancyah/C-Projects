@@ -1,3 +1,5 @@
+// Lets rate your password!
+
 using System;
 
 namespace PasswordChecker
